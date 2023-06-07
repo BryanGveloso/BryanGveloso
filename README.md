@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BryanGveloso
 - 👀 I’m interested in PHP and JS
-- 🌱 I’m currently learning CSS3
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
