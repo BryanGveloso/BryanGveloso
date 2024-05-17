@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BryanGveloso
-- 👀 I’m interested in PHP and JS
+##Olá! Sou o Bryan Gomes
+- 👀 Estou interessado em Front-End 
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Fale comigo no email: bryan11gomes@gmail.com
 
 <!---
 BryanGveloso/BryanGveloso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
