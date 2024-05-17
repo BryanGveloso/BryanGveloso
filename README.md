@@ -1,7 +1,6 @@
 ##Olá! Sou o Bryan Gomes
 - 👀 Estou interessado em Front-End 
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
 - 📫 Fale comigo no email: bryan11gomes@gmail.com
 
 <!---
